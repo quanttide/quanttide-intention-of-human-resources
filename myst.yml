@@ -1,0 +1,17 @@
+version: 1
+project:
+  title: 量潮人力资源意图
+  description: 记录量潮人力资源领域的目标、原则与价值主张
+  keywords: [人力资源, 组织设计, 培训]
+  authors:
+    - name:
+        literal: 量潮科技
+      email: opensource@quanttide.com
+  github: https://github.com/quanttide/quanttide-intention-of-human-resources
+  source: https://github.com/quanttide/quanttide-intention-of-human-resources/tree/main
+  toc:
+    - file: index.md
+    - file: training/index.md
+
+site:
+  template: book-theme
