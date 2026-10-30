@@ -13,3 +13,4 @@
 ### Added
 
 - 新增独立的 MyST 文档站和 qtdocs-site OSS 部署 workflow。
+- 新增绩效模块意图（performance/founder.md）：改革绩效从创始人接受团队考核开始，把「王在法下」的权力约束写进制度。

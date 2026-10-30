@@ -12,6 +12,7 @@ project:
   toc:
     - file: index.md
     - file: training/index.md
+    - file: performance/founder.md
 
 site:
   template: book-theme
