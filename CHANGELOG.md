@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- 绩效模块意图（`performance/founder.md`）分离时效性内容：2025 年事实经过（新 HR 入职指导、2025 年绩效清单）迁至历史仓 `performance/founder.md`，意图侧保留宪法原则与来源
+
 ### Removed
 
 - 迁出招聘模块意图（`recuritment/index.md`）至量潮联盟意图仓 `qtrecurit/index.md`：招聘与 qtrecurit 解耦后归联盟主体；索引同步去掉招聘行
