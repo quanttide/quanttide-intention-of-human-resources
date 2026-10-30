@@ -5,5 +5,4 @@
 ## 文档
 
 - [培训模块意图](./training/index.md)
-- [招聘模块意图](./recuritment/index.md)
 - [绩效模块意图](./performance/founder.md)

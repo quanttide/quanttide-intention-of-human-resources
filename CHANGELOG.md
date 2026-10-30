@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Removed
+
+- 迁出招聘模块意图（`recuritment/index.md`）至量潮联盟意图仓 `qtrecurit/index.md`：招聘与 qtrecurit 解耦后归联盟主体；索引同步去掉招聘行
+
 ### Added
 
 - 新增招聘模块意图：招聘即人才供应链——以招聘服务经营雇主人脉、促进其他业务，并沉淀人才信用数据
